@@ -1,5 +1,5 @@
 # Moozik
-![alt text](https://github.com/UWHack/Moozik/blob/master/images/logo.png "CoreVal logo")
+![alt text](https://github.com/ProjectHusky/Moozik/blob/master/images/logo.png "CoreVal logo")
 
 **Moozik** is a project that creates a Spotify playlist for a roadtrip based on the roadtrip's
 estimated travel time.
